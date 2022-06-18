@@ -18,9 +18,9 @@ body {
 	display: flex;
 	padding: 20px 30px;
 	position: relative;
-	margin: 100px 0;
+	margin: 100px 10px;
 	z-index: 10;
-	margin:10px;
+	
 }
 .img-container {
 	position: relative;
@@ -154,7 +154,7 @@ body {
   align-items: center;
   height: 150px;
   border: 1px solid #794e3b; 
-  font-size: 30px ;
+  font-size: 35px ;
   padding: 10px;
   margin-top: 50px;
  	font-family: 'Gentium Plus', serif;
